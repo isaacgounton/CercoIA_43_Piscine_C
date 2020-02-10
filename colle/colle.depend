@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1581211600 source:c:\users\cerco-ia\documents\cercoia\piscine 1\la colle\colle\ft_putchar.c
+
+1581212345 source:c:\users\cerco-ia\documents\cercoia\piscine 1\la colle\colle\main.c
+	<stdio.h>
+	<stdlib.h>
+	"colle.h"
+
+1581211709 c:\users\cerco-ia\documents\cercoia\piscine 1\la colle\colle\colle.h
+	<unistd.h>
+
+1581211753 source:c:\users\cerco-ia\documents\cercoia\piscine 1\la colle\colle\colle01.c
+
+1581211760 source:c:\users\cerco-ia\documents\cercoia\piscine 1\la colle\colle\colle02.c
+
+1581211766 source:c:\users\cerco-ia\documents\cercoia\piscine 1\la colle\colle\colle03.c
+
+1581211772 source:c:\users\cerco-ia\documents\cercoia\piscine 1\la colle\colle\colle04.c
+
+1581211778 source:c:\users\cerco-ia\documents\cercoia\piscine 1\la colle\colle\colle05.c
+
+1581355294 source:d:\la colle isaac\colle\colle02.c
+	"colle.h"
+
+1581355302 source:d:\la colle isaac\colle\colle03.c
+	"colle.h"
+
+1581355314 source:d:\la colle isaac\colle\colle04.c
+	"colle.h"
+
+1581355330 source:d:\la colle isaac\colle\colle05.c
+	"colle.h"
+
+1581208002 source:d:\la colle isaac\colle\ft_putchar.c
+
+1581355708 source:d:\la colle isaac\colle\main.c
+	<stdio.h>
+	<stdlib.h>
+	"colle.h"
+
+1581355492 d:\la colle isaac\colle\colle.h
+	<unistd.h>
+
+1581355124 source:d:\la colle isaac\colle\colle01.c
+	"colle.h"
+
+1581355124 source:g:\groupe20 - projet final\colle\colle01.c
+	"colle.h"
+
+1581355492 g:\groupe20 - projet final\colle\colle.h
+	<unistd.h>
+
+1581355294 source:g:\groupe20 - projet final\colle\colle02.c
+	"colle.h"
+
+1581355302 source:g:\groupe20 - projet final\colle\colle03.c
+	"colle.h"
+
+1581355314 source:g:\groupe20 - projet final\colle\colle04.c
+	"colle.h"
+
+1581355330 source:g:\groupe20 - projet final\colle\colle05.c
+	"colle.h"
+
+1581208002 source:g:\groupe20 - projet final\colle\ft_putchar.c
+
+1581355708 source:g:\groupe20 - projet final\colle\main.c
+	<stdio.h>
+	<stdlib.h>
+	"colle.h"
+
