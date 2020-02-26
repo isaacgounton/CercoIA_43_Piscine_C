@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1580887901 source:c:\users\cerco-ia\desktop\groupe 6- ahouansou paul\code block p\plus ou moins\jour2\ft_ft.c
+	<stdio.h>
+	<stdlib.h>
+
+1580888631 source:c:\users\cerco-ia\desktop\groupe 6- ahouansou paul\code block p\plus ou moins\jour2\ft_ultimate_ft.c
+	<stdio.h>
+	<stdlib.h>
+
+1580896682 source:c:\users\cerco-ia\desktop\groupe 6- ahouansou paul\code block p\plus ou moins\jour2\ft_swap.c
+	<stdio.h>
+	<stdlib.h>
+
+1580891042 source:c:\users\cerco-ia\desktop\groupe 6- ahouansou paul\code block p\plus ou moins\jour2\ft_div_mod.c
+	<stdio.h>
+	<stdlib.h>
+
+1580896935 source:c:\users\cerco-ia\desktop\groupe 6- ahouansou paul\code block p\plus ou moins\jour2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1580893481 source:c:\users\cerco-ia\desktop\groupe 6- ahouansou paul\code block p\plus ou moins\jour2\ft_ultimate_div_mod.c
+	<stdio.h>
+	<stdlib.h>
+
+1580894129 source:c:\users\cerco-ia\desktop\groupe 6- ahouansou paul\code block p\plus ou moins\jour2\ft_putstr.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
+1580898068 source:c:\users\cerco-ia\desktop\groupe 6- ahouansou paul\code block p\plus ou moins\jour2\ft_strlen.c
+	<stdio.h>
+	<stdlib.h>
+
+1580903235 source:c:\users\cerco-ia\desktop\groupe 6- ahouansou paul\code block p\plus ou moins\jour2\ft_strrev.c
+	<stdio.h>
+	<stdlib.h>
+
+1580902795 source:c:\users\cerco-ia\desktop\groupe 6- ahouansou paul\code block p\plus ou moins\jour2\ft_atoi.c
+	<stdio.h>
+	<stdlib.h>
+
+1580938375 source:c:\users\cerco-ia\documents\cercoia\piscine\jour2\ft_div_mod.c
+	<stdio.h>
+	<stdlib.h>
+
+1580938375 source:c:\users\cerco-ia\documents\cercoia\piscine\jour2\ft_ft.c
+	<stdio.h>
+	<stdlib.h>
+
+1580938375 source:c:\users\cerco-ia\documents\cercoia\piscine\jour2\ft_putstr.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
+1580938375 source:c:\users\cerco-ia\documents\cercoia\piscine\jour2\ft_strlen.c
+	<stdio.h>
+	<stdlib.h>
+
+1580938375 source:c:\users\cerco-ia\documents\cercoia\piscine\jour2\ft_swap.c
+	<stdio.h>
+	<stdlib.h>
+
+1580938375 source:c:\users\cerco-ia\documents\cercoia\piscine\jour2\ft_ultimate_div_mod.c
+	<stdio.h>
+	<stdlib.h>
+
+1580938375 source:c:\users\cerco-ia\documents\cercoia\piscine\jour2\ft_ultimate_ft.c
+	<stdio.h>
+	<stdlib.h>
+
+1580938375 source:c:\users\cerco-ia\documents\cercoia\piscine\jour2\ft_atoi.c
+	<stdio.h>
+	<stdlib.h>
+
+1580938375 source:c:\users\cerco-ia\documents\cercoia\piscine\jour2\ft_strrev.c
+	<stdio.h>
+	<stdlib.h>
+
+1580938375 source:c:\users\cerco-ia\documents\cercoia\piscine\jour2\ft_sort_integer_table.c
+	<stdio.h>
+	<stdlib.h>
+
+1580927080 source:c:\users\cerco-ia\documents\cercoia\piscine\jour2\main.c
+	<stdio.h>
+	<stdlib.h>
+
