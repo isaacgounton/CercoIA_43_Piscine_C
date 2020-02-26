@@ -1,0 +1,93 @@
+Assignment name  : aff_last_param
+Expected files   : aff_last_param.c
+Allowed functions: write
+--------------------------------------------------------------------------------
+
+Écrire un programme qui prend des chaînes, et affiche son dernier argument suivi d'un newline.
+
+S'il y a moins d'un argument, le programme affiche juste un newline.
+
+Exemples:
+
+$> ./aff_last_param "zaz" "mange" "des" "chats" | cat -e
+chats$
+$> ./aff_last_param "j'aime le savon" | cat -e
+j'aime le savon$
+$> ./aff_last_param
+$
+
+
+Assignment name  : aff_z
+Expected files   : aff_z.c
+Allowed functions: write
+--------------------------------------------------------------------------------
+
+Écrire un programme qui prend en paramètre une chaîne de caractères, et qui
+affiche sur la sortie standard le premier caractère 'z' rencontré dans
+cette chaîne, suivi de '\n'. Si aucun 'z'
+n'est rencontré dans la chaîne, le programme affiche 'z' suivi de
+'\n'. Si le nombre de paramètres est différent de 1, le
+programme affiche 'z' suivi de '\n'.
+
+Exemple:
+
+$> ./aff_z "abc" | cat -e
+z$
+$> ./aff_z "dubO a POIL" | cat -e
+z$
+$> ./aff_z "zaz sent le poney" | cat -e
+z$
+$> ./aff_z | cat -e
+z$
+
+
+Assignment name  : ft_print_numbers
+Expected files   : ft_print_numbers.c
+Allowed functions: write
+--------------------------------------------------------------------------------
+
+Écrire une fonction qui affiche tous les chiffres dans l'ordre croissant.
+
+Elle devra être prototypée de la façon suivante :
+
+void	ft_print_numbers(void);
+
+
+
+
+Assignment name  : ft_strlen
+Expected files   : ft_strlen.c
+Allowed functions:
+--------------------------------------------------------------------------------
+
+Écrire une fonction qui renvoie la longueur d'une chaîne de caractères.
+
+Elle devra être prototypée de la façon suivante :
+
+int	ft_strlen(char *str);
+
+
+
+
+Assignment name  : maff_revalpha
+Expected files   : maff_revalpha.c
+Allowed functions: write
+--------------------------------------------------------------------------------
+
+Écrire un programme qui affiche l'alphabet à l'envers, une lettre sur 2 en
+minuscule, et le reste en majuscule (Voir l'exemple), suivi d'un '\n'.
+
+Exemple:
+
+$> ./maff_revalpha | cat -e
+zYxWvUtSrQpOnMlKjIhGfEdCbA$
+
+
+
+
+Assignment name  : only_a
+Expected files   : only_a.c
+Allowed functions: write
+--------------------------------------------------------------------------------
+
+Écrire un programme qui affiche un caractère 'a' sur la sortie standard.
